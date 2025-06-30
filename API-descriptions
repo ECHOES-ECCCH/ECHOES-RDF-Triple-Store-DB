@@ -1,0 +1,11 @@
+GET /rdf/graphs/{graphId}/queries/{queryId}/results
+Retrieve results of a saved SPARQL query.
+
+POST /rdf/graphs/{graphId}/triples/batch
+Upload a batch of RDF triples.
+
+PUT /rdf/graphs/{graphId}/triples/{tripleId}
+Update a specific triple.
+
+DELETE /rdf/graphs/{graphId}/triples/{tripleId}
+Delete a specific triple.
