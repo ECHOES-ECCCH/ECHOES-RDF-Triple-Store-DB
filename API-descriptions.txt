@@ -1,3 +1,5 @@
+#Preliminary version 0.1
+
 GET /rdf/graphs/{graphId}/queries/{queryId}/results
 Retrieve results of a saved SPARQL query.
 
